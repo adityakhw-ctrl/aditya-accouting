@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://adityakhw-ctrl.github.io/aditya-accouting/sitemap.xml
